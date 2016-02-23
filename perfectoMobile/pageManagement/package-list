@@ -1,0 +1,16 @@
+com.perfectoMobile.content
+com.perfectoMobile.content.provider
+com.perfectoMobile.page
+com.perfectoMobile.page.data
+com.perfectoMobile.page.data.provider
+com.perfectoMobile.page.element
+com.perfectoMobile.page.element.provider
+com.perfectoMobile.page.factory
+com.perfectoMobile.page.keyWord
+com.perfectoMobile.page.keyWord.provider
+com.perfectoMobile.page.keyWord.spi
+com.perfectoMobile.page.keyWord.step
+com.perfectoMobile.page.keyWord.step.spi
+com.perfectoMobile.page.listener
+com.perfectoMobile.page.recordWriter
+com.perfectoMobile.page.timingWriter

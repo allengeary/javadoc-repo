@@ -1,0 +1,6 @@
+com.morelandLabs.integrations.common
+com.morelandLabs.integrations.perfectoMobile.rest
+com.morelandLabs.integrations.perfectoMobile.rest.bean
+com.morelandLabs.integrations.perfectoMobile.rest.services
+com.morelandLabs.integrations.rest.bean
+com.morelandLabs.integrations.rest.bean.factory

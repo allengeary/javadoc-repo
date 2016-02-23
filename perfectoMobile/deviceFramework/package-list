@@ -1,0 +1,11 @@
+com.perfectoMobile.device
+com.perfectoMobile.device.artifact
+com.perfectoMobile.device.artifact.api
+com.perfectoMobile.device.cloud
+com.perfectoMobile.device.comparator
+com.perfectoMobile.device.data
+com.perfectoMobile.device.data.perfectoMobile
+com.perfectoMobile.device.factory
+com.perfectoMobile.device.factory.spi
+com.perfectoMobile.device.ng
+com.perfectoMobile.device.property

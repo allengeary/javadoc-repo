@@ -1,0 +1,7 @@
+com.perfectoMobile.gesture
+com.perfectoMobile.gesture.device.action
+com.perfectoMobile.gesture.device.action.spi.perfecto
+com.perfectoMobile.gesture.factory
+com.perfectoMobile.gesture.factory.spi
+com.perfectoMobile.gesture.factory.spi.appium
+com.perfectoMobile.gesture.factory.spi.perfecto
